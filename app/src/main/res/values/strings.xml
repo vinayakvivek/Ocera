@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="subscription_key">a89f4198d64d47a5815389a14b202720</string>
+
+    <string name="app_name">Ocera</string>
+    <string name="title_activity_sendbird">Ocera</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+</resources>

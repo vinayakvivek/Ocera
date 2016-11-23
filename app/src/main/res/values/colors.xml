@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sendbird_purple_color">#824096</color>
+    <color name="control_background">#cc4285f4</color>
+    <color name="anger">#F75D59</color>
+    <color name="contepmpt">#FAAFBE</color>
+    <color name="disgust">#837E7C</color>
+    <color name="fear">#FFDB58</color>
+    <color name="happiness">#3BB9FF</color>
+    <color name="neutral">#FFF</color>
+    <color name="sadness">#9E7BFF</color>
+    <color name="surprise">#98FF98</color>
+    <color name="transparent">#80000000</color>
+
+    <color name="black">#000000</color>
+</resources>

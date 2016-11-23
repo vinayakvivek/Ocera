@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1001968906330",
+    "firebase_url": "https://sendbirdsample-5ad80.firebaseio.com",
+    "project_id": "sendbirdsample-5ad80",
+    "storage_bucket": "sendbirdsample-5ad80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001968906330:android:abe06d49c04fba23",
+        "android_client_info": {
+          "package_name": "com.sendbird.android.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001968906330-4mcij0kgg8dfmrsi7ibv7q4htbu3vig9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqHzvlr02l4qKOuOwVaENvawuHFu3fP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
